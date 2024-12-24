@@ -1,4 +1,4 @@
 # apna_collage
 This is my first repo.
 <br>
-Author - Kuldeep Bhardwaj
+Author - Kuldeep Bhardwaj from MCA 
